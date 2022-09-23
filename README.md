@@ -1,0 +1,2 @@
+# autoQvision
+Repositorio estudio automatizacion
