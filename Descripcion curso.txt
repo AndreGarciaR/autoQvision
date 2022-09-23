@@ -3,11 +3,11 @@ Este curso tiene como objetivo generar un mayor conocimiento sobre la gestión d
 Curso especialmente recomendado para aquellas personas que desean continuar con la línea de formación en desarrollo de software, analistas funcionales y automatizadores de pruebas que constantemente están integrando actualizaciones en sus equipos de trabajo.
 
 Lo que aprenderás
- Utilizar los comandos básicos de Git para el versionamiento de código.
- Crear y utilizar correctamente los repositorios que albergan código.
- Realizar un correcto manejo de los repositorios remotos y locales.
- Conocer y utilizar GitFlow para un buen manejo de nuestro repositorio.
- Comandos básicos.
+Utilizar los comandos básicos de Git para el versionamiento de código.
+Crear y utilizar correctamente los repositorios que albergan código.
+Realizar un correcto manejo de los repositorios remotos y locales.
+Conocer y utilizar GitFlow para un buen manejo de nuestro repositorio.
+Comandos básicos.
  
 Requisitos
 El presente curso no tiene prerrequisitos.
