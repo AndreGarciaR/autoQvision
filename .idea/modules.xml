@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AutoQvision.iml" filepath="$PROJECT_DIR$/.idea/AutoQvision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoQvision.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoQvision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoQvision.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoQvision.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoQvision.test.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoQvision.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Page.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Page.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Page.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Page.test.iml" />
     </modules>
   </component>
 </project>
